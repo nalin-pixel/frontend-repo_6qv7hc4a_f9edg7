@@ -14,7 +14,7 @@ const photos = [
     alt: 'Soft ripples across a calm sea',
   },
   {
-    src: 'https://images.unsplash.com/photo-1470115636492-6d2b56f9146e?q=80&w=1600&auto=format&fit=crop',
+    src: 'https://images.unsplash.com/photo-1756224470421-12d866062da2?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxTb2Z0JTIwcmlwcGxlcyUyMGFjcm9zcyUyMGElMjBjYWxtJTIwc2VhfGVufDB8MHx8fDE3NjI0NzI0NjN8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80',
     alt: 'Sunset over distant mountains and water',
   },
   {
